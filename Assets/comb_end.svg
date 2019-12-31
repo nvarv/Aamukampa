@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150"
+   height="540"
+   viewBox="0 0 39.6875 142.875"
+   version="1.1"
+   id="svg1567"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="comb_end.svg">
+  <defs
+     id="defs1561" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-94.751806"
+     inkscape:cy="59.429402"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-page="true"
+     units="px"
+     inkscape:window-width="960"
+     inkscape:window-height="1009"
+     inkscape:window-x="960"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1564">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-154.12499)">
+    <path
+       id="path1553"
+       d="m 19.070261,154.125 c -3.201251,0.024 -22.5290576,0.2005 -18.52738785,23.26306 l 4.18463815,24.11872 4.7494725,27.2898 8.3926862,48.83998 2.511922,14.86046 c 0,0 0.59056,4.47834 3.430738,4.50298 h 1.051288 c 3.045764,0 2.959028,-2.02958 2.959028,-2.02958 l 0.226836,-2.67768 2.92213,-48.14714 1.561956,-25.85872 c 0.766044,-12.46076 7.153933,-11.98552 7.153933,-11.98552 V 154.125 H 23.81233 19.539492 Z"
+       style="fill:#ffffff;stroke:none;stroke-width:0.20863992px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

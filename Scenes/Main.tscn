@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Objects/Comb.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Assets/morning_button.svg" type="Texture" id=2]
+
+[node name="Main" type="Node2D"]
+
+[node name="Comb" parent="." instance=ExtResource( 1 )]
+position = Vector2( 540, 945 )
+
+[node name="UI" type="Control" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+
+[node name="MorningButton" type="TextureButton" parent="UI"]
+margin_left = 240.0
+margin_top = 1851.42
+margin_right = 840.0
+margin_bottom = 2051.42
+texture_normal = ExtResource( 2 )
