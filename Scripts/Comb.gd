@@ -1,6 +1,6 @@
 extends Node2D
 
-const length = 3
+const length = 250
 const color = Color("e1d798")
 
 onready var units = get_node("Units")
@@ -30,3 +30,23 @@ func add_base(i):
 		base.texture = comb_unit_broken
 		base.position.y = 120
 	units.add_child(base)
+	
+var pressed = false
+var prev
+var acc = 0
+
+func _process(delta):
+	if not pressed:
+		position.x += acc
+	acc *= 0.95
+
+func _unhandled_input(event):
+	if event is InputEventMouseMotion and pressed:
+		position.x += (event.position - prev).x
+		acc = (event.position - prev).x
+		prev = get_global_mouse_position()
+	elif event.is_action_pressed("click"):
+		pressed = true
+		prev = get_global_mouse_position()
+	elif event.is_action_released("click"):
+		pressed = false
